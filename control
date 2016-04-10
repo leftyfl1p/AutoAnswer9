@@ -1,0 +1,9 @@
+Package: com.leftyfl1p.autoanswer
+Name: AutoAnswer9
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Auto answer all FaceTime and audio calls.
+Maintainer: leftyfl1p
+Author: leftyfl1p
+Section: Tweaks
